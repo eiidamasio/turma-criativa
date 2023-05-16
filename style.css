@@ -1,0 +1,49 @@
+/*SELETOR UNIVERSAL*/
+
+*{ margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    font-family: sans-serif;
+}
+
+.cabecalho{
+    background-color: red;
+    display: flex;
+    padding: 30px;
+    font-size: 24px;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 100px;
+    height: 100px;
+}
+
+.cabecalho-item{
+    display: inline-block;
+    padding: 0 100px;
+
+
+}
+
+.turma{
+    background-image: linear-gradient(red,rgb(221, 104, 104))
+}
+
+.turma-titulo{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.turma-imagem{
+    width: 300px;
+}
+
+/*secção estudante*/
+
+.estudante{
+    background-image: linear-gradient(rgba);
+}
